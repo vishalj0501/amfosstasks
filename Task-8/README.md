@@ -1,3 +1,3 @@
-Did not try this task yet.
-
-I will definitely try it out after I learn as soon as possible (after tasks submission).
+Completed this task.
+It was a fun task and i liked it!
+Used a lot of youtube vedios to attempt this.
