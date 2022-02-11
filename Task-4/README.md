@@ -1,5 +1,3 @@
-
-  Did not know what to do after generating the api key.
-  
-Although I could get the image. But not through the expected way. :(
-
+Initially I tried this task using Typer CLI https://typer.tiangolo.com/typer-cli/
+But left it after several tries. 
+Although got to learn a lot through the task,I did not get the expected output.But I confirmed the code with some of my friends.Could not find the error in the code.. 
