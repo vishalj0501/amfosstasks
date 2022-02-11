@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="/css/style2.css" />
+    <title>JS</title>
+  </head>
+  <body>
+    <!--On click of Button-1 store something in localStorage-->
+    <button class="button" onclick="localStorage()">Button-1</button>
+    <script type ="text/javascript">
+localStorage.setItem("name","We Make The Best Pizzas in The World !")
+    </script>
+    <!--On click of Button-2 show a popup with current time-->
+    <button class="button">Button-2</button>
+
+
+
+
+    <!--On click of Button-3 change the background-->
+    <button class="button" onclick=bgchange();>Button-3</button>
+    <script>
+      function bgchange()
+      {
+        document.body.style.background="url('https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80')"
+      }
+    </script>
+    <!--On click of Button-4 refresh the page-->
+    <button class="button" onclick=fresh();>Button-4</button>
+<script>
+  function fresh()
+  {
+    window.location.reload();
+  }
+</script>
+    <!--On click of Button-5 open a new window-->
+    <button class="button" onclick=newin()>Button-5</button>
+<script>
+  function newin(){
+    window.open();
+  }
+</script>
+    <!--On click of Button-6 spam the console with 'I did it'-->
+    <button class="button" onclick=spamidi()>Button-6</button>
+    <script>
+      function spamidi(){
+        for (let i=1; i>0;i++){
+          console.log("I Did It !")
+        }
+      }
+    </script>
+    <form>
+      <!--set form action-->
+      <a href="../htmls/chart.html">
+      <button class="button">Next
+
+        
+      </button>
+      </a>
+    </form>
+  </body>
+</html>
