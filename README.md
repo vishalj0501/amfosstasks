@@ -7,7 +7,7 @@
 [Task-00](https://github.com/vishalj0501/amfosstasks/tree/main/Task-0)|Install Ubuntu|Completed
 [Task-01](https://github.com/vishalj0501/amfosstasks/tree/main/Task-1)|Star all Amfoss Repos|Completed
 [Task-02](https://github.com/vishalj0501/amfosstasks/tree/main/Task-2)|Linux and Git|Completed
-[Task-03](https://github.com/vishalj0501/amfosstasks/tree/main/Task-3)|Programming|Solved 2/10
+[Task-03](https://github.com/vishalj0501/amfosstasks/tree/main/Task-3)|Programming|Completed 2/10
 [Task-04](https://github.com/vishalj0501/amfosstasks/tree/main/Task-4)|Aerglo Mars|Completed
 [Task-05](https://github.com/vishalj0501/amfosstasks/tree/main/Task-5)|Let Me C|Completed
 [Task-06](https://github.com/vishalj0501/amfosstasks/tree/main/Task-6)|Flutter UI|Completed
